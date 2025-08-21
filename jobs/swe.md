@@ -29,7 +29,6 @@ Vi tilbyr den rette kandidaten å være med på en spennende reise innen det vi 
 
 Du vil få muligheten til å utgjøre en forskjell i et miljø som sitter tett på mediehusene i vårt felles konsern Mentor Medier, med nye lokaler i Oslo sentrum. Vi setter faglig og personlig utvikling høyt, og er opptatt av å bygge en kultur der alle bidrar med sitt beste for å nå felles mål, hjelper hverandre og får muligheten til å utvikle seg der de er sterkest. Her får du sjansen til å jobbe med utfordrende problemstillinger og bli en del av et team som drives av å skape resultater.
 
-For å inkludere fokus på sterk teknisk kompetanse, i tillegg til de spesifikke erfaringene, kan du bruke denne setningen:
 Vi ser etter en kandidat med solid teknisk kompetanse, der erfaring med abonnement, transaksjoner, betaling og innlogging er spesielt viktig for oss.
 
 Vår nye systemutvikler rapporterer til CTO.
