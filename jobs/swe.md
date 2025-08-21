@@ -10,6 +10,7 @@ Vi ser etter en person som kan være med på bygge vårt kjerneprodukt og rigge 
 
 - Lang erfaring med systemarkitektur og utvikling av komplekse løsninger, med et sterkt eierskap til kodekvalitet og dyp forståelse for "best practices" for skalerbare løsninger av høy kvalitet.
 - Pådriver som tør å utfordre etablerte sannheter og bidrar konstruktivt til kontinuerlig forbedring av teknologi og arbeidsmetoder.
+- Har erfaring med abonnement, transaksjoner, betaling og innlogging.
 - Trives med å jobbe selvstendig og i team, og er god på å kommunisere tekniske løsninger til ikke-tekniske personer.
 - Behersker norsk og engelsk som arbeidsspråk.
 - Flere års erfaring med Java på enterprise-nivå, og villig til å jobbe med moderne frontend-teknologier.
@@ -28,8 +29,6 @@ Vi satser på å ta nye markedsandeler i Skandinavia, og ser denne stillingen so
 Vi tilbyr den rette kandidaten å være med på en spennende reise innen det vi mener er en av de viktigste bransjene akkurat nå - aldri har fri og uavhengig journalistikk vært viktigere, og det inntektsbenet som seiler opp som viktigst for mediebransjen er digitalt abonnement.
 
 Du vil få muligheten til å utgjøre en forskjell i et miljø som sitter tett på mediehusene i vårt felles konsern Mentor Medier, med nye lokaler i Oslo sentrum. Vi setter faglig og personlig utvikling høyt, og er opptatt av å bygge en kultur der alle bidrar med sitt beste for å nå felles mål, hjelper hverandre og får muligheten til å utvikle seg der de er sterkest. Her får du sjansen til å jobbe med utfordrende problemstillinger og bli en del av et team som drives av å skape resultater.
-
-Vi ser etter en kandidat med solid teknisk kompetanse, der erfaring med abonnement, transaksjoner, betaling og innlogging er spesielt viktig for oss.
 
 Vår nye systemutvikler rapporterer til CTO.
 
