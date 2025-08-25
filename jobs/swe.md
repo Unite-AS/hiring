@@ -32,7 +32,7 @@ Du vil få muligheten til å utgjøre en forskjell i et miljø som sitter tett p
 
 Vår nye systemutvikler rapporterer til CTO.
 
-Kan du være personen vi søker etter? Ta kontakt med CTO Bjarne Øverli på <bjarne@unite.as>.
+Kan du være personen vi søker etter? Ta kontakt med CTO Bjarne Øverli på <bjarne[at]unite.as>.
 
 ## Om Unite
 
