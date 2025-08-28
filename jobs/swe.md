@@ -8,7 +8,7 @@ Vi ser etter en person som kan være med på bygge vårt kjerneprodukt og rigge 
 
 ## Vi ser etter
 
-- Lang erfaring med systemarkitektur og utvikling av komplekse løsninger, med et sterkt eierskap til kodekvalitet og dyp forståelse for "best practices" for skalerbare løsninger av høy kvalitet.
+- Lang erfaring med systemarkitektur og utvikling av komplekse løsninger, med et sterkt eierskap til kodekvalitet og dyp forståelse for best practices for skalerbare løsninger av høy kvalitet.
 - Pådriver som tør å utfordre etablerte sannheter og bidrar konstruktivt til kontinuerlig forbedring av teknologi og arbeidsmetoder.
 - Har erfaring med abonnement, transaksjoner, betaling og innlogging.
 - Trives med å jobbe selvstendig og i team, og er god på å kommunisere tekniske løsninger til ikke-tekniske personer.
