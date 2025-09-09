@@ -12,7 +12,6 @@ We are looking for a person who can help build our core product and get us ready
 - A proactive mindset who dares to challenge established truths and contributes constructively to the continuous improvement of technology and work methods.
 - Experience with subscriptions, transactions, payments, and logins.
 - The ability to work well both independently and in a team, and is skilled at communicating technical solutions to non-technical people.
-- Proficiency in Norwegian and English as working languages.
 - Several years of experience with enterprise-level Java, and a willingness to work with modern frontend technologies.
 - Experience with data-driven and product-driven development.
 - A results-oriented approach and is driven by creating value for customers and the company.
