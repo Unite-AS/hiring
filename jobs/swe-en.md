@@ -1,8 +1,8 @@
-# Unite is looking for a new System Developer
+# Unite is looking for a new Software Engineer
 
 Unite is a company owned by Mentor Medier. We create products for the media industry, with a primary focus on login, purchasing, and subscriptions. We are passionate about building products that are easy to use and create real value for our customers. We believe the key to success is working in a user-centric and data-driven way.
 
-With new products heading to market and new customers coming on board, we need another system developer to join our team.
+With new products heading to market and new customers coming on board, we need another software engineer to join our team.
 
 We are looking for a person who can help build our core product and get us ready for future growth.
 
