@@ -9,12 +9,12 @@ We are looking for a person who can help build our core product and get us ready
 ## We are looking for someone with
 
 - Extensive experience in system architecture and developing complex solutions, with a strong sense of ownership for code quality and a deep understanding of best practices for high-quality, scalable solutions.
-- A proactive mindset who dares to challenge established truths and contributes constructively to the continuous improvement of technology and work methods.
+- A proactive mindset that dares to challenge established truths and contributes constructively to the continuous improvement of technology and work methods.
 - Experience with subscriptions, transactions, payments, and logins.
 - The ability to work well both independently and in a team, and is skilled at communicating technical solutions to non-technical people.
 - Several years of experience with enterprise-level Java.
 - Experience with data-driven and product-driven development.
-- A results-oriented approach and is driven by creating value for customers and the company.
+- A results-oriented approach that is driven by creating value for customers and the company.
 - A sense of ownership and the ability to work proactively to solve problems, with a high degree of execution.
 - A genuine desire to learn and grow professionally.
 - Experience with or interest in CI/CD and infrastructure.
@@ -30,7 +30,7 @@ We offer the right candidate the opportunity to be part of an exciting journey i
 
 You will have the opportunity to make a difference in an environment that works closely with the media houses in our shared Mentor Medier group, with new offices in central Oslo. We place a high value on professional and personal development and are committed to building a culture where everyone contributes their best to achieve common goals, helps each other, and has the chance to develop where they are strongest. Here, you get the chance to work on challenging issues and become part of a team driven by creating results.
 
-Our new system developer will report to the CTO.
+Our new software engineer will report to the CTO.
 
 Could you be the person we're looking for? Please contact CTO Bjarne Øverli at **bjarne[at]unite.as**.
 
