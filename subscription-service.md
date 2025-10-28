@@ -1,6 +1,6 @@
 **Assignment: Build a Mini Subscription Service API**
 
-**Objective:**  
+**Objective:**
 Design and implement a simple backend service for managing user subscriptions, focusing on code quality, architecture, best practices and documentation.
 
 **Requirements:**
@@ -15,12 +15,12 @@ Design and implement a simple backend service for managing user subscriptions, f
     - Your architectural decisions.
     - How to run and test the solution.
 
-**Optional if time permits**
+**Optional if time permits:**
 - Use a database
 - Add a simple frontend to demonstrate basic subscription flows.
 - Create a Dockerfile
 
-**Time frame:**  
+**Time frame:**
 Spend a maximum of 3-4 hours. It's not necessary to implement every feature completely. Focus on quality, clarity, and communication of your approach.
 
 **Delivery:**
