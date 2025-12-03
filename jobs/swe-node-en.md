@@ -8,7 +8,7 @@ We are looking for a person who can help build our core product and get us ready
 
 ## We are looking for someone with
 
-- Extensive experience building scalable backend architectures using Node.js and Nest.js, with a strong focus on clean code and best practices.
+- Extensive experience building scalable backend architectures using Node.js and NestJS, with a strong focus on clean code and best practices.
 - Deep technical knowledge of OAuth2 and OIDC flows, with the ability to architect secure login, session management, and authentication systems.
 - Proficiency in modern frontend development using frameworks such as Next.js/Nuxt to build fast and responsive user experiences.
 - Experience with (or a strong understanding of) subscriptions, payment gateways, and transaction handling.
